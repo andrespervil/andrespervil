@@ -8,8 +8,5 @@
 
 - 🔭 I’m currently working on [Shakers](https://www.shakersworks.com/)
 
-- 🌱 I’m currently learning **NestJS**
-
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrespervil&" alt="andrespervil" /></p>
